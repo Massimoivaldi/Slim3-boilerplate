@@ -12,5 +12,9 @@ composer install
 
 Update your db settings in bootstrap/app.php
 
+Import in mysql db.sql
+
+Rock'n'roll
+
 
 
