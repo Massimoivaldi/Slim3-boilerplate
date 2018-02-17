@@ -1,0 +1,12 @@
+{% extends 'templates/app.twig' %}
+
+{% block content %}
+    Dashboard
+    <br>
+    {{ auth.user.name }}
+    <br>
+    {{ auth.user.id }}
+    <pre>
+    {{ dump(auth.user) }}
+	</pre>
+{% endblock %}
