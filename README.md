@@ -10,5 +10,7 @@ Slim3 boilerplate with login logout protected area, fully working
 Install:
 composer install
 
+Update your db settings in bootstrap/app.php
+
 
 
